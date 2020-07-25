@@ -4,8 +4,7 @@
 
 ![ContourRend](demo_results/ContourRend.png)
 
-- The contour generator is based on Tian's model [paper](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.14327), [code](https://github.com/Tian-lab/GCN-Based-Interactive-Prostate-Segmentationon-on-MR-Images
-)
+- The contour generator is based on Tian's model ([paper](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.14327))
 
 ## Test result on Cityscapes
 
