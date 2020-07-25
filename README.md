@@ -1,6 +1,6 @@
 # ContourRend
 
-> ContourRend: A Segmentation Method for Improving Contours by Rendering
+> ContourRend: A Segmentation Method for Improving Contours by Rendering ([paper](https://arxiv.org/abs/2007.07437))
 
 ![ContourRend](demo_results/ContourRend.png)
 
